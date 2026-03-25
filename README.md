@@ -310,11 +310,22 @@ submitted → pending → approved / rejected
 
 ## Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feat/my-feature`
+We welcome contributions from everyone! See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide.
+
+**Quick start:**
+
+1. Pick an [open issue](https://github.com/samieazubike/stellar-wave-hub/issues) and claim it
+2. Fork the repo and create a feature branch: `git checkout -b feat/my-feature`
 3. Make your changes
-4. Run checks/tests: `npm run lint` (frontend/Next.js app) / `cargo test` (contract)
-5. Open a pull request
+4. Run checks: `npm run lint` (web app) / `cargo test` (contract)
+5. Add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md)
+6. Open a pull request
+
+See the [Contributors](CONTRIBUTORS.md) list for everyone who has helped build this project.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
