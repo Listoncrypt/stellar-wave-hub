@@ -12,17 +12,32 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 **Template:**
 
 ```html
-<div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="80" style="border-radius:50%" alt="Your Name" />
-    <br />
-    <sub><b>Your Name</b></sub>
-  </a>
-  <br />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
-  <br />
-  <sub>Role — Project 1, Project 2</sub>
+<div
+	style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
+>
+	<a href="https://github.com/YOUR_GITHUB_USERNAME">
+		<img
+			src="https://github.com/YOUR_GITHUB_USERNAME.png"
+			width="80"
+			style="border-radius:50%"
+			alt="Your Name"
+		/>
+		<br />
+		<sub><b>Your Name</b></sub>
+	</a>
+	<br />
+	<a href="https://github.com/YOUR_GITHUB_USERNAME"
+		><img
+			src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
+			alt="GitHub"
+	/></a>
+	<a href="https://x.com/YOUR_X_HANDLE"
+		><img
+			src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square"
+			alt="X"
+	/></a>
+	<br />
+	<sub>Role — Project 1, Project 2</sub>
 </div>
 ```
 
@@ -37,35 +52,6 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 ## Contributors List
 
 <!-- CONTRIBUTORS-START -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/samieazubike">
-        <img src="https://github.com/samieazubike.png" width="80" alt="samieazubike" style="border-radius:50%" />
-        <br />
-        <sub><b>samieazubike</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/samieazubike"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
-      <a href="https://x.com/samabornoking"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
-      <br />
-      <sub>Maintainer — Project creator</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/barry01-hash">
-        <img src="https://github.com/barry01-hash.png" width="80" alt="barry01-hash" style="border-radius:50%" />
-        <br />
-        <sub><b>barry01-hash</b></sub>
-      </a>
-      <br />
-      <a href="https://github.com/barry01-hash"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
-      <br />
-      <sub>Researcher - Researched and uploaded the Neko Protocol project profile</sub>
-    </td>
-    <!-- Add your <td> above this line -->
-  </tr>
-</table>
-<div style="display:flex;flex-wrap:wrap;gap:8px;justify-content:center">
 
 <div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
   <a href="https://github.com/samieazubike">
@@ -91,6 +77,29 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
   <a href="https://x.com/Zubair_57"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
   <br />
   <sub>Researcher — Finclusive Stellar Anchor, OFFER-HUB Identity</sub>
+</div>
+
+<div
+	style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
+>
+	<a href="https://github.com/barry01-hash">
+		<img
+			src="https://github.com/barry01-hash.png"
+			width="80"
+			style="border-radius:50%"
+			alt="barry01-hash"
+		/>
+		<br />
+		<sub><b>barry01-hash</b></sub>
+	</a>
+	<br />
+	<a href="https://github.com/barry01-hash"
+		><img
+			src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
+			alt="GitHub"
+	/></a>
+	<br />
+	<sub>Researcher - Neko Protocol</sub>
 </div>
 
 <div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
@@ -121,7 +130,6 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 
 </div>
 <!-- CONTRIBUTORS-END -->
-
 
 ## Roles
 
